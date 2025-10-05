@@ -1,5 +1,6 @@
 # voltrix
 okay so i decided to try to make a game in pure c++ and uhh that's what i made
+
 shit
 
 currently there are only 24 entity modifiers and 1 type, errant. and 4 player edicts (abilities), and parry (and infinite player levels), and.. idk just tell me if it even works 4 you
