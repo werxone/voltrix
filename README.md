@@ -7,11 +7,19 @@ currently there are only 24 entity modifiers and 1 type, errant. and 4 player ed
 
 -- controls --
 wasd - move
+
 double tap wasd - short dash
+
 shift - sprint
+
 double tap shift - dash
+
 f - parry (press before taking damage to avoid it, or combine with walking | dashing into errants to deal massive damage)
+
 left click - slash (starter edict)
+
 right click - beam (starter edict)
+
 q - spark (5+ level, hold)
+
 e - slayer of atoms (15+ level, 3 stacks, each stack regenerates every 10 seconds)
